@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on The Xsoft OS
 - 🌱 I’m currently learning python
 - 👯 i don't accept collaborating!
-- 💬 to contact me. make a readme file with for xsoft name!
+- 💬 to contact me. Message on my website!
 - 📞 i don't accept e-mails or phone calls!
 - 😄 The xsoft os is a secure os in Batch file language!
 - 📁 i am very very good at batch file!
