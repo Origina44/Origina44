@@ -7,5 +7,5 @@
 - 📞 i don't accept e-mails or phone calls!
 - 😄 The xsoft os is a secure os in Batch file language!
 - 📁 i am very very good at batch file!
-- ⚡️ Fun fact: did you know there are more than 1000 codes in Data.bat? (The xsoft run file is data.bat!)
+- ⚡️ Fun fact: did you know there are more than 1000 lines of code in Data.bat? (The xsoft run file is data.bat!)
 
